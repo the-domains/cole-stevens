@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Business Development Consultant ]]></title>
         <description><![CDATA[Business Development Consultant ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cole-stevens/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 12:03:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 May 2016 12:15:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cole-stevens/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Working as one of our most experienced digital marketing influencers. Cole Stevens and his team specialises in developing and managing influencer campaigns for high street brands & leading companies around the World. More than 4000 of the leading luxury lifestyle bloggers, vloggers and social influencers with a combined reach of over 150 million consumers are on hand to deliver your brands appeal. </p>]]></description>
+            <link>https://thegrid.ai/cole-stevens/working-as-one-of-our-most-experienced-digital-marketing-inf/index.html</link>
+            <guid isPermaLink="false">4b56f698-bdfe-49b2-94e5-a9678317783b</guid>
+            <pubDate>Thu, 05 May 2016 12:14:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91fad935-fd65-4d59-80fc-4276e827c926.jpg">]]></description>
-            <link>undefinedlets-schedule-our-next-meeting-in-mayfair/index.html</link>
+            <link>https://thegrid.ai/cole-stevens/lets-schedule-our-next-meeting-in-mayfair/index.html</link>
             <guid isPermaLink="false">b4576ba6-b91f-4642-b0f3-583a6cefeb1a</guid>
             <pubDate>Thu, 05 May 2016 12:03:45 GMT</pubDate>
         </item>
